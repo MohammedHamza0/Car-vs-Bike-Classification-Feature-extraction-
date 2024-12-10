@@ -11,8 +11,6 @@ This project utilizes machine learning and computer vision to classify and segme
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Contributors](#contributors)
-- [License](#license)
 
 ---
 
