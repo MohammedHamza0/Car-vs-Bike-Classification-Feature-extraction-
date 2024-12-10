@@ -57,6 +57,7 @@ Follow these steps to get the project up and running locally:
 1. Clone this repository to your local machine:
    ```bash
    git clone https://github.com/MohammedHamza0/Car-vs-Bike-Classification-Feature-extraction.git
+
    ```
 
 2. Navigate to the project directory:
